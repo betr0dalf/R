@@ -1,0 +1,20 @@
+number of matrix elements: 63
+number of rows: 9
+number of cols: 7
+sum of main diag elements: 6.29863900284024
+row sums: 5.77556550151232
+row sums: 6.29415243249261
+row sums: 6.68074969396551
+row sums: 6.91934514763484
+row sums: 7
+row sums: 6.91934514763484
+row sums: 6.68074969396551
+row sums: 6.29415243249261
+row sums: 5.77556550151232
+col sums: 7.23697231668596
+col sums: 8.10853076131948
+col sums: 8.70293645249552
+col sums: 8.9812615201218
+col sums: 8.92518416290055
+col sums: 8.53840054548532
+col sums: 7.84633979220194
